@@ -61,6 +61,9 @@ rqworker
 rqworker --with-gevent
 
 8. Test User
+    Jedem Video kann vor dem Upload ein User zugeordnet werden.
+    Neue User bekommen Videos angezigt die mit "Is public" markiert sind.
+    
     ```sh
     User: testuser1@test.de
     pw: 123abc@A
