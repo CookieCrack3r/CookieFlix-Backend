@@ -54,11 +54,15 @@ Kurze Beschreibung mit Hinweis auf Git Frontend
 7. Starte den RQ Worker
 
 ``Für Unix-basierte Systeme (Linux/MacOS)
+
 rqworker
 
 ``Für Windows (mit gevent)
 rqworker --with-gevent
 
+8. Test User
+User: testuser1@test.de
+pw: 123abc@A
 
 ## Tests
 
