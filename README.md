@@ -61,8 +61,14 @@ rqworker
 rqworker --with-gevent
 
 8. Test User
-``User: testuser1@test.de
-``pw: 123abc@A
+    ```sh
+    User: testuser1@test.de
+    pw: 123abc@A
+    ```
+    ```sh
+    User: testuser2@test.de
+    pw: 123abc@A
+    ```
 
 ## Tests
 
